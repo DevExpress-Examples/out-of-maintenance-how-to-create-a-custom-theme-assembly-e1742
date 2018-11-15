@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [styles.css](./CS/App_Themes/MyVioletTheme/styles.css)
+* [Class1.cs](./CS/Class1.cs) (VB: [Class1.vb](./VB/Class1.vb))
+* [AssemblyInfo.cs](./CS/Properties/AssemblyInfo.cs)
+<!-- default file list end -->
 # How to create a custom theme assembly
 
 
