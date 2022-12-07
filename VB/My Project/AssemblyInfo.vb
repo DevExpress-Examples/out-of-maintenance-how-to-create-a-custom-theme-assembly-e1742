@@ -5,7 +5,7 @@ Imports System.Runtime.InteropServices
 Imports System
 Imports System.Security
 Imports System.Web.UI
-Imports DevExpress.Web.ASPxClasses
+Imports DevExpress.Web
 
 ' General Information about an assembly is controlled through the following 
 ' set of attributes. Change these attribute values to modify the information
